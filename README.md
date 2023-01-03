@@ -9,6 +9,3 @@
 ## ❤️SNS❤️
 
 <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=INSTAGRAM&logoColor=black"> <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"> <img src="https://img.shields.io/badge/Kakaotalk-yellow?style=for-the-badge&logo=kakao&logoColor=black">
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JIYOON0304&repo=github-readme-stats)
