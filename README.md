@@ -9,3 +9,5 @@
 ## ❤️SNS❤️
 
 <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=INSTAGRAM&logoColor=black"> <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"> <img src="https://img.shields.io/badge/Kakaotalk-yellow?style=for-the-badge&logo=kakao&logoColor=black">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIYOON0307&show_icons=true&theme=radical)
